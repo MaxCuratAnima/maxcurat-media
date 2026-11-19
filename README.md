@@ -7,7 +7,7 @@ Music used on https://maxcurat.neocities.org/
   Source: https://archive.org/details/jamendo-175965
 - **Aurora** by Scott Buckley - https://www.scottbuckley.com.au
   Creative Commons Attribution 4.0 International (CC BY 4.0): https://creativecommons.org/licenses/by/4.0/
-  Source: https://www.scottbuckley.com.au/library/aurora (re-encoded to 128 kbps)
+  Source: https://www.scottbuckley.com.au/library/aurora
 - **Spacedman** by Shane Ivers - https://www.silvermansound.com
   Creative Commons Attribution 4.0 International (CC BY 4.0): https://creativecommons.org/licenses/by/4.0/
   Source: https://www.silvermansound.com/free-music/spacedman
